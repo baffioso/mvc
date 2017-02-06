@@ -1,0 +1,7 @@
+body {
+  font-family: 'Cutive Mono', monospace;
+  background-color: #FFFFF0;
+}
+.carousel-inner{
+  max-height: 80% !important;
+}
